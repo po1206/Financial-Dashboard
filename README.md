@@ -1,6 +1,6 @@
 ## Instructions how to run the Financial Dash App:
 
-1) Get a free Finnhub API key. https://github.com/dvasser/Finnhub-API-Connector has more information and will be used for the dash app.
+1) Get a free Finnhub API key. https://github.com/po1206/Finnhub-API-Connector has more information and will be used for the dash app.
 2) Download this repository and navigate to the directory with all the files.
 3) ```pip install -r requirements.txt```
 4) Run the finn_dashapp.py (could run from the terminal/command line).
